@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexandre-dqs
+- 👋 Hi, I’m Alexandre de Queiroz Santos
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning Java basics 
 - 💞️ I’m looking to collaborate on TQI
